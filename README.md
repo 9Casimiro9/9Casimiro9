@@ -1,3 +1,5 @@
+<img src="https://github.com/9Casimiro9/9Casimiro9/raw/master/linux.gif" width="50">
+
 ### Hi there, I'm Rafael - aka Casimiro 👋
 
 ⚡ Self-motivated and goal oriented Full-Stack Developer! Have the ability to follow through with projects from inception to completion using analytically and problem-solving skills.
