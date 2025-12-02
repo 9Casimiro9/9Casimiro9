@@ -40,6 +40,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9casimiro9&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://9casimiro9.github.io/
 [instagram]: https://instagram.com/9Casimiro9
 [linkedin]: https://linkedin.com/in/rafael-casimiro
