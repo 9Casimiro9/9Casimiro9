@@ -110,11 +110,11 @@ const rafael: SeniorDeveloper = {
 <h2 align="center">🐧 contributions.tsx 🐧</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/9Casimiro9/9Casimiro9/blob/output/github-contribution-grid-snake2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9casimiro9/9casimiro9/output/github-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/9casimiro9/9casimiro9/output/github-snake.svg" />
-  </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+        <img alt="github-snake" src="github-snake.svg" />
+    </picture>
 </p>
 
 
